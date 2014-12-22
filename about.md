@@ -1,26 +1,21 @@
 ---
-layout: post
-permalink: /about/index.html
-title: About the Theme
-description: Balzac is a new, fluid & responsive theme for Jekyll (and AnchorCMS). It's gloriously beautiful and suited to long form. Built on a SCSS foundation, it's organized and awesome.
-tags: [about, Jekyll, theme, responsive]
-image:
-  feature: soft-trees.jpg
+layout: page
+title: About
+permalink: /about/
 ---
 
-This is built on Semantic.gs grid framework which I edited a bit to make it fluid. I hope you enjoy using, forking, whatevering this theme as much as I did making it. 
+### About Meredith Smith
+---
 
-### Features
-* flexible, uses max-width for responsive goodness
-* responsive drop down menu
-* retina images using @2x
-* post loop in the footer showing 3 latest post
-* custom portfolio page for case studies
+For as long as I can remember, I've been a writer. By day, I'm a mild mannered business owner, but by whatever-free-time-I-have-leftover, I write music reviews, book reviews, fiction, and other prose (some satirical, others more serious). Originally from Lubbock, Tx, I now hail from Seattle, Wa, where the cold and gray days provide ample time for surfing local record shops and being holed up in my office writing.
 
-### Acknowledgements
-I utilized my own HTML templates, but had no prior knowledge of liquid nor the required Jekyll system file format. I took [Michael Rose](http://twitter.com/mmistakes)'s theme [Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes/). Having a prebuilt archive and the YAML front-matter already set up was a great help. 
+As far as writing creds go, I am possibly best known as the editor and creative director of *Sweet Anthem Press*, a zine distro and publishing company I ran from 2002-2004. Throughout my high school years, I was editor and writer for my high school newspaper *The Daily Westerner*, and the literary magazine *Visage*. During college, I served as a music contributor to *The Daily Toreador* and worked as an editor's assistant at the Texas Tech University Press, and dabbled in radio interviews, news reports, and spinning music at the campus radio station. I also played music in various live acts, and opened for bands such as the Shins. I wrote album reviews and composed interviews for the blog at KEXP.org, where I was also the webmaster, and have also been published in national magazines  like *Bust Magazine*.
 
- The lovely font shown here is Calendas. For full splendor on your blog, I suggest you [head over and buy that](http://calendasplus.com/). The full family is 3 weights and costs $3. Many thanks to Daniel Bruce for the wonderful Entypo icons. Those can be picked up at [entypo.com](http://entypo.com), but are included with the source files. It's also <b>retina ready</b> via retina.js. Check out how that works over at [retinajs.com](http://retinajs.com).
+It's 10 years later, though, and I spent a lot of time in between working as a web publisher/content editor for various major software companies, independent radio stations, and other places before relaunching Sweet Anthem as a different business (where I write and compose perfumes, of all things), and spent not nearly enough time writing for myself. This blog serves as part thought-bubble and part resolution-to-write-more.
 
-### The Name
-Balzac was a famous writer, known for his beautiful prose. I read some Balzac in school, but mostly feel comfort in the name of my favorite coffee shop in Stratford, Ontario. 
+### About NB2TW
+---
+
+My favorite book in college was Venedikt Erofeev's **Moskva-Petuskhi**, an absurdist dissident novel originally published in zine format, that begins with the quote, "I have hever been to the wall." This statement in and of itself is absurd, considering one who lives in Moscow has a hard time of missing the wall that surrounds Red Square. Coincidentally, I majored in Russian Languages and also published my early works in serial print zine format. It is also a subtle nod to the SPOON song, *Chicago at Night*. 
+
+My self-published zine credits include the *Damn Engine* series (my college perzine), *Haiku for Saints & Martyrs* (my perzine about my ongoing battle with congenital heart disease), *The Streets of Where I'm From* (a perzine about my love/hate relationship with Texas), a couple of children's stories, and a zine also titled *Never Been to the Wall* (about my study abroad adventures in Moscow and St. Petersburg, Russia). 
