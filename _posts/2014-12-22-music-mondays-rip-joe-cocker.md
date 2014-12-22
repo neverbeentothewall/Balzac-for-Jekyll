@@ -4,6 +4,7 @@ title: Music Mondays--RIP, Joe Cocker
 published: true
 category: music mondays
 tags: [music, joe cocker, rip]
+description: Rock stars pay tribute to iconic blues and rock performer Joe Cocker, dead at 70.
 ---
 
 For my first **Music Mondays** post (that's still a thing, right?), I had wanted to write about the Neutral Milk Hotel song, "Holland, 1945" that [appeared at the end credits sequence on the finale of *The Colbert Report* last week](http://consequenceofsound.net/2014/12/heres-why-stephen-colbert-played-neutral-milk-hotels-holland-1945-to-close-the-colbert-report/), but something equally heartbreaking popped up in my news feed today: the timely news of Joe Cocker's death at 70 from lung cancer takes precedence.
