@@ -3,5 +3,5 @@ layout: home
 title: "Recent Posts"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: typewriter.jpg
+  feature: https://raw.githubusercontent.com/neverbeentothewall/neverbeentothewall.github.io/master/images/typewriter.jpg
 ---
