@@ -1,20 +1,20 @@
-title:            Balzac
-tagline:          A beautiful theme.
-description:      Describe your website.
-canonical: http://jekyll.gtat.me
+title:            NB2TW
+tagline:          
+description:      The personal blog of Meredith Smith.
+canonical: http://neverbeentothewall.github.io
 
 # Owner/author information
 owner:
-  name:           Cole Townsend
-  avatar:         avatar.png
-  bio:            "Aesthete & Athlete"
-  email:          cole@coletownsend.com
-  twitter:        twnsndco
-  github:         coletownsend
-  instagram:      ctrunsthis
-  dribbble:       coletownsend
-  disqus:         balzac
-  location:       "Buffalo, NY"
+  name:           Meredith Smith
+  avatar:         https://avatars3.githubusercontent.com/u/10258589?v=3&s=96
+  bio:            
+  email:          mere.tucker@gmail.com
+  twitter:        
+  github:         neverbeentothewall
+  instagram:      sweetanthem
+  dribbble:       
+  disqus:         
+  location:       "Seattle, WA"
   # Plug in your disqus shortname!
 
 tools:
@@ -25,13 +25,7 @@ tools:
 # For external links add external: true
 links:
   - title: About
-    url: /about
-  - title: Github
-    url: https://github.com/ColeTownsend/Balzac-for-Jekyll
-    external: true
-  - title: Cole Who?
-    url: http://coletownsend.com
-    external: true
+    url: about.md
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
