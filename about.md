@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 image:
-  feature: https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xfa1/t31.0-8/830263_10151707467419502_261708494_o.jpg
+  feature: about.jpg
 ---
 
 ### About Meredith Smith
