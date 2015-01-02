@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Plot Snyopsis 01--The Writer's Room
-description: From a collection of synopses that may be used for future writing endeavors.
+category: writing
 tags: synopsis, plot, writing, dark, dramedy
+description: From a collection of synopses that may be used for future writing endeavors.
 ---
 
 <em>Ed. note: I like write and collect synopses for that magical time of NaNoWriMo, so that I can spend Octobers taking stock and sifting through nonsense.</em>
