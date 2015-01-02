@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Plot Snyopsis #1: The Writer's Room
+title: Plot Snyopsis 01: The Writer's Room
 description: From a collection of synopses that may be used for future writing endeavors.
 tags: synopsis, plot, writing, dark, dramedy
 ---
