@@ -56,7 +56,6 @@ permalink:   /:categories/:title
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
 
-<<<<<<< Updated upstream
 gems:
   - jekyll-archives
 =======
@@ -69,4 +68,15 @@ jekyll-archives:
     day: '/:year/:month/:day/'
     tag: '/tag/:name/'
     category: '/category/:name/'
->>>>>>> Stashed changes
+enabled: all
+enabled:
+  - categories
+enabled:
+  - year
+  - month
+  - tags	
+permalinks:
+  year: '/archives/year/:year/'
+  month: '/archives/month/:year-:month/'
+  tag: '/archives/tag/:name/`  
+  
