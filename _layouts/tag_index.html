@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+{% include head-dark.html %}
+
+
 <h2 class="post_title">{{page.title}}</h2>
 <ul>
   {% for post in site.posts %}
@@ -19,3 +22,6 @@ layout: default
   {% endfor %}
   {% endfor %}
 </ul>
+
+
+{% include footer.html %}
