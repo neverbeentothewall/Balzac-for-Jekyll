@@ -15,4 +15,5 @@ So I forget, a lot of the times, what is and what isn’t real.  These passing s
 
 A good way to remember to make your bed every morning is to never sleep in it at night.
 Until you realize that much of your life has been lived unaccounted for, and that you’ve been living life in negative time, displacement is a perfectly fine way to function.  The missing time starts out in increments as small as the time it takes you to leave your apartment and walk to your car but eventually turns into days in airports or weeks in hospital beds.  
+
 And eventually you lose it all.
